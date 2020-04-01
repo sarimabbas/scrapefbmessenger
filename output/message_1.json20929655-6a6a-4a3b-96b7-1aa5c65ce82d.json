@@ -1,0 +1,35 @@
+[
+  {
+    "Icon": "https://accounts.google.com/favicon.ico",
+    "Name": "accounts.google.com",
+    "Title": "Meet Google Drive – One place for all your files",
+    "Description": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
+    "Image": "https://accounts.google.com/images/icons/ui/common/universal_language_settings-21.png",
+    "URL": "https://accounts.google.com/ServiceLogin?service=wise\u0026passive=1209600\u0026continue=https://drive.google.com/drive/folders/188m7CqgRLJbTDuBInVQhXeiyTlobr2gD?usp%3Dsharing_eil%26ts%3D5ab98404\u0026followup=https://drive.google.com/drive/folders/188m7CqgRLJbTDuBInVQhXeiyTlobr2gD?usp%3Dsharing_eil%26ts%3D5ab98404",
+    "SenderName": "Ramiz Ãolak",
+    "Timestamp": 1522803751953,
+    "Message": "https://drive.google.com/drive/folders/188m7CqgRLJbTDuBInVQhXeiyTlobr2gD?usp=sharing_eil\u0026ts=5ab98404"
+  },
+  {
+    "Icon": "https://accounts.google.com/favicon.ico",
+    "Name": "accounts.google.com",
+    "Title": "Google Docs - create and edit documents online, for free.",
+    "Description": "Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.",
+    "Image": "https://accounts.google.com/images/icons/ui/common/universal_language_settings-21.png",
+    "URL": "https://accounts.google.com/ServiceLogin?service=wise\u0026passive=1209600\u0026continue=https://docs.google.com/document/d/1hAkJm-RkYy3VJCdkWigi3ZuADG9OWjdD4rwZCu8ioHo/edit?usp%3Dsharing\u0026followup=https://docs.google.com/document/d/1hAkJm-RkYy3VJCdkWigi3ZuADG9OWjdD4rwZCu8ioHo/edit?usp%3Dsharing\u0026ltmpl=docs",
+    "SenderName": "Sarim Abbas",
+    "Timestamp": 1517288697872,
+    "Message": "We should be able to copy-paste some answers from the community engagement grant application here: https://docs.google.com/document/d/1hAkJm-RkYy3VJCdkWigi3ZuADG9OWjdD4rwZCu8ioHo/edit?usp=sharing"
+  },
+  {
+    "Icon": "https://accounts.google.com/favicon.ico",
+    "Name": "accounts.google.com",
+    "Title": "Google Docs - create and edit documents online, for free.",
+    "Description": "Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.",
+    "Image": "https://accounts.google.com/images/icons/ui/common/universal_language_settings-21.png",
+    "URL": "https://accounts.google.com/ServiceLogin?service=wise\u0026passive=1209600\u0026continue=https://docs.google.com/document/d/1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM/edit?usp%3Dsharing\u0026followup=https://docs.google.com/document/d/1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM/edit?usp%3Dsharing\u0026ltmpl=docs",
+    "SenderName": "Sarim Abbas",
+    "Timestamp": 1517288609668,
+    "Message": "Hi guys, so this week we have some deadlines coming up that I am hoping we can work on together. On Feb 1 is the Dean's Discretionary Fund deadline. I've put the questions in a Google Doc: https://docs.google.com/document/d/1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM/edit?usp=sharing"
+  }
+]

@@ -2,7 +2,11 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
+	"log"
+	"os"
+	"path/filepath"
 	"strings"
 
 	"github.com/badoux/goscraper"
@@ -45,10 +49,54 @@ func check(e error) {
 }
 
 func main() {
-	parseMessageFile("./sample.json")
+	// names, paths := listAllMessageFiles("./input")
+	// for i, path := range paths {
+	// 	fmt.Println("Working on: ", path)
+	// 	parseMessageFile(path, names[i])
+	// }
+
+	// combine output
+	_, paths := listAllMessageFiles("./output")
+	var combinedPages []Page
+	for _, path := range paths {
+		// read file
+		dat, err := ioutil.ReadFile(path)
+		check(err)
+
+		// read the json into an empty thread
+		var pages []Page
+		json.Unmarshal(dat, &pages)
+		combinedPages = append(combinedPages, pages...)
+	}
+
+	// write to file
+	fmt.Println("Total messages: ", len(combinedPages))
+	out, _ := json.MarshalIndent(combinedPages, "", "  ")
+	outPath := "./combined.json"
+	ioutil.WriteFile(outPath, out, 0644)
 }
 
-func parseMessageFile(filePath string) {
+func listAllMessageFiles(startDir string) ([]string, []string) {
+	var fileNames []string
+	var filePaths []string
+	err := filepath.Walk(startDir,
+		func(path string, info os.FileInfo, err error) error {
+			if err != nil {
+				return err
+			}
+			if strings.HasSuffix(info.Name(), ".json") {
+				fileNames = append(fileNames, info.Name())
+				filePaths = append(filePaths, path)
+			}
+			return nil
+		})
+	if err != nil {
+		log.Println(err)
+	}
+	return fileNames, filePaths
+}
+
+func parseMessageFile(filePath string, fileName string) {
 	// read file
 	dat, err := ioutil.ReadFile(filePath)
 	check(err)
@@ -97,6 +145,6 @@ func parseMessageFile(filePath string) {
 	// write to file
 	out, err := json.MarshalIndent(pages, "", "  ")
 	u1 := uuid.NewV4()
-	outPath := "./output/" + filePath + u1.String() + ".json"
+	outPath := "./output/" + fileName + u1.String() + ".json"
 	err = ioutil.WriteFile(outPath, out, 0644)
 }
