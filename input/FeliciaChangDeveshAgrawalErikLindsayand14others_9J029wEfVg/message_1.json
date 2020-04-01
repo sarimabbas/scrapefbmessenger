@@ -1,0 +1,3574 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Devesh Agrawal"
+    },
+    {
+      "name": "Erik Lindsay"
+    },
+    {
+      "name": "Helena Bui"
+    },
+    {
+      "name": "Isa del T"
+    },
+    {
+      "name": "Joe Lybik"
+    },
+    {
+      "name": "Marley Finley"
+    },
+    {
+      "name": "Khai Tran"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Casey Ramsey"
+    },
+    {
+      "name": "Surbhi Bharadwaj"
+    },
+    {
+      "name": "Heather McClure"
+    },
+    {
+      "name": "Mari Melin"
+    },
+    {
+      "name": "Alanis Allen"
+    },
+    {
+      "name": "Alex Lusak"
+    },
+    {
+      "name": "Greg Jazwinski"
+    },
+    {
+      "name": "Chelsea Mayle"
+    },
+    {
+      "name": "Kendrea Walker"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1585408891297,
+      "content": "Khai there\u00e2\u0080\u0099s an Italian film forum being offered virtually! Mamma Mia! You should check it out",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584840835263,
+      "content": "Omg I\u00e2\u0080\u0099m freaking out a member of the CDC just called me personally and told me I need to isolate myself immediately because they found out one of the new symptoms of the virus is being hot, having a great personality, and a big juicy ass. Send this to 5 hoes u think might be infected.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Kendrea Walker"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584833188541,
+      "content": "Are ppl down for a Zoom picnic/wine night?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584832333202,
+      "content": "gcal invite w/ link plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584816464978,
+      "content": "LETS HAVE A ZOOM MEETING EVERYONE",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584740670450,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/53692880_411693229399999_2242231013096816640_n_644940712744280.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584740508930,
+      "content": "\u00f0\u009f\u0099\u008b\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584740484917,
+      "content": "r u all pro UP ? ? ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584652182593,
+      "content": "who is still @ Yale??",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584490431563,
+      "content": "Didn\u00e2\u0080\u0099t know this!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584487277499,
+      "content": "I guess we shall see friends....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584486685433,
+      "content": "I have no idea bc that would make sense for a yearlong essay, but for a 1-semester essay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486580294,
+      "content": "If you do a two-semester thesis.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486573838,
+      "content": "Like do you have an option to choose either? Like HSHM grades the first semester S/U and then once everything about your thesis is submitted, they\u00e2\u0080\u0099ll give you a grade that replaces the S/U.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584486534239,
+      "content": "It\u00e2\u0080\u0099s why it\u00e2\u0080\u0099d probably have to be mandatory so that those who really need can take it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584486512985,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486444225,
+      "content": "What do you mean?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584486308569,
+      "content": "Currently the humanities department places both the Satisfactory/Not satisfactory  system (so like pass/fail?) and letter grade on the senior thesis. They\u00e2\u0080\u0099re not even communicating with us lmao",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584486282276,
+      "content": "Only thing that warrants extensions in our department is if you actually catch the virus and need quarantined or hospitalized for at least a week",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584486231892,
+      "content": "My department just sent this out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584486227115,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/90033143_869945580098446_1222063928247320576_n_869945533431784.jpg",
+          "creation_timestamp": 1584486226
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486191419,
+      "content": "So whatever she chooses, I would die for her.*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486173826,
+      "content": "And I love her so much.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486170928,
+      "content": "But I would also did for her.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486167008,
+      "content": "Like personally advocate?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486161194,
+      "content": "Not sure.... got an email from my HSHM professor and she said In terms of just the thesis, that she was probably going to try to advocate for pass/fail?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584486155326,
+      "content": "The econ department said their are waiting for \"guidance from the University\" so I guess whatever is decided will have some bearing",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584486119229,
+      "content": "We love jetlag!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584486109082,
+      "content": "Another thing is: does all this apply to our thesis?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584486101833,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584486077181,
+      "content": "Oh yeah Surbhi, you\u00e2\u0080\u0099re not even in any remotely local time zone right now...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485991493,
+      "content": "Yeah I'll do more research tomorrow/hope they come out with something by then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485972275,
+      "content": "Hmmhmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485938323,
+      "content": "Lmao Soorbee for president!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485928927,
+      "content": "That\u00e2\u0080\u0099s why I\u00e2\u0080\u0099m worried about universal pass fail as well.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485920941,
+      "content": "Like 4.0 gpas lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Heather McClure"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485903916,
+      "content": "What is 4s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485889409,
+      "content": "We all need 4s",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Helena Bui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485872309,
+      "content": "Like for example if you were goin through a lot right now and would benefit from p/f but is was an option, and you knew is a premed taking the option would be bad. But if you were in another career you might know it\u00e2\u0080\u0099s ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485870321,
+      "content": "And no commencement",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485863462,
+      "content": "For the emotional trauma endured",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485859228,
+      "content": "Surbhi 2020",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485855935,
+      "content": "Why isn't anyone proposing that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485850241,
+      "content": "Everyone should just get As in everything tbh",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alanis Allen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485800421,
+      "content": "You either get a pail as a gift if you do fine or you fail the class lmao",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485798755,
+      "content": "Probably signalling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485787383,
+      "content": "Why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485779446,
+      "content": "Pail fail \u00f0\u009f\u0098\u0082 sorry that was funny to me",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485765667,
+      "content": "Pass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485763296,
+      "content": "I do think the problem is that would have to do universal if they offer pail fail",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485742564,
+      "content": "But it just comes across as oafish and heavy handed",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485737931,
+      "content": "\"lazy and inconsiderate\"",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Alanis Allen"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485725001,
+      "content": "The Morse HOC was like it\u00e2\u0080\u0099s them being \u00e2\u0080\u009cthoughtful and intelligent\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485700481,
+      "content": "I just hate that they are so slow about everything....",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alanis Allen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485684785,
+      "content": "NWestern has this interesting policy about not taking final exams/doing final assignments and having the rest of the grade be made up  with other work from the class..",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485673247,
+      "content": "So unless Yale goes rogue (which honestly it might) I feel like there would be flexibility in whatever final system",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485658544,
+      "content": "I really really hope it\u00e2\u0080\u0099s an opt in/out kind of a thing",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485644942,
+      "content": "Man I need my grades from this semester for my gpa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485634413,
+      "content": "I can see the administration being amenable to the p/f suggestion \u00e2\u0080\u0094 but probably without universality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485634312,
+      "content": "Yeah all places that have announced seem to have some sort of middling policy on this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485609575,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/90021351_3461990453863722_1687735067142520832_n_3461990390530395.jpg",
+          "creation_timestamp": 1584485608
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485604143,
+      "content": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/updates/winter-finals-policy.html",
+      "share": {
+        "link": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/updates/winter-finals-policy.html"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485603080,
+      "content": "https://www.smith.edu/student-life/health-wellness/coronavirus/faq",
+      "share": {
+        "link": "https://www.smith.edu/student-life/health-wellness/coronavirus/faq"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485594706,
+      "content": "And you can withdraw from classes without getting a W now as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584485579602,
+      "content": "The opt into pass fail shouldn\u00e2\u0080\u0099t be too hard to do; they\u00e2\u0080\u0099ve already extended the credit d deadline to May sixth",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Marley Finley"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485514637,
+      "content": "https://www.georgetown.edu/news/covid-19-update-flexibilities-to-assist-undergraduate-students-during-spring-2020-remote-learning/",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        }
+      ],
+      "share": {
+        "link": "https://www.georgetown.edu/news/covid-19-update-flexibilities-to-assist-undergraduate-students-during-spring-2020-remote-learning/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485386954,
+      "content": "Lol let's see how my lab classes react?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485360558,
+      "content": "That\u00e2\u0080\u0099s what I thought too.... that\u00e2\u0080\u0099s why I don\u00e2\u0080\u0099t trust her... But some of them are still finishing prereqs and not seniors so \u00c2\u00af\\_(\u00e3\u0083\u0084)_/\u00c2\u00af",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485359525,
+      "content": "Those humanities people. Meaning Hist and Engl is what I know from first hand. I\u00e2\u0080\u0099m sure others too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485340310,
+      "content": "Sounds super skeptical, this situation as a whole is proving we need more medical professionals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485324593,
+      "content": "Reqs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485321000,
+      "content": "Lolll maybe they just mean premed read?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485308731,
+      "content": "Which departments ya know?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485305484,
+      "content": "She also kind of sounds like one of those girls that would tell the teacher that she forgot to hand in the homework, so I don\u00e2\u0080\u0099t really trust her.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485297094,
+      "content": "I know some profs are refusing to hand out letter grades",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485276733,
+      "content": "\u00e2\u0080\u009cAllegedly\u00e2\u0080\u009d this girl\u00e2\u0080\u0099s friend contacted top 10 med schools and they said that they would want retakes of classes that were graded under pass/fail. But I\u00e2\u0080\u0099m only speaking from hearsay. Not sure what grad schools are thinking.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485262247,
+      "content": "It is a pandemic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485255413,
+      "content": "I feel like they will literally have to understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485253869,
+      "content": "I don\u00e2\u0080\u0099t think we will have much say tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584485237900,
+      "content": "Yeah i was worried too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485236870,
+      "content": "HPAP?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485212209,
+      "content": "Yeah, people are worried about grad schools and medical school applications. I\u00e2\u0080\u0099ve asked the HPAP people what they thought (haven\u00e2\u0080\u0099t gotten any response back).",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485172431,
+      "content": "RIP Jonathan Holloway.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485165157,
+      "content": "Or maybe they'll make it only pass/fail in order to avoid possible bias in grad schools",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485164216,
+      "content": "Northwestern gave an option. I referred her to that.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485149017,
+      "content": "I'd look into what MIT did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584485143254,
+      "content": "Maybe they will have both?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485130712,
+      "content": "Oh interesting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485124736,
+      "content": "On the grading policy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584485117146,
+      "content": "Apparently, some girl from my volunteering group said that faculty are voting on it tomorrow.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485116600,
+      "content": "They're all looking for student input",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485106661,
+      "content": "You should just reach out to the organizers!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584485092832,
+      "content": "Yeah I plan on learning more about it in the coming days",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584484588507,
+      "content": "So like they\u00e2\u0080\u0099re asking the university to give them option: you can either choose pass/fail or stick with your letter grades.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584484564778,
+      "content": "There are a lot of people who are vouching for universal pass/fail changes to the grading policy. And like that\u00e2\u0080\u0099s it. But others want an option to stick with letter grades.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584484530049,
+      "content": "What\u00e2\u0080\u0099s the difference? You can choose a letter grade with the latter option?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584484510854,
+      "content": "What's going on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584484496927,
+      "content": "Because it\u00e2\u0080\u0099s something that I am siding with more, if possible.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584484494925,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584484468515,
+      "content": "Has anyone heard of the not-necessarily-opposition movement to universal pass-fail but instead, having an option to choose between letter grades or pass/fail?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584480674676,
+      "content": "Lolll this is so true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584462425597,
+      "content": "It\u00e2\u0080\u0099s dean rosas\u00e2\u0080\u0099 kid\u00e2\u0080\u0099s favorite pumpkin apparently",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584462407978,
+      "content": "Also I\u00e2\u0080\u0099m quite glad we didn\u00e2\u0080\u0099t end up smashing the pumpkin next to entryway f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584462019707,
+      "content": "I just realized we started college with that Pok\u00c3\u00a9mon go summer that got everybody outside and now we\u00e2\u0080\u0099re \u00e2\u0080\u009cgraduating\u00e2\u0080\u009d into a quarantine period \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584460738102,
+      "content": "My friend Amanda got a hamster before she went on vacation but I think she was able to take the hamster with her when she went home. \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584460194933,
+      "content": "I want all of y\u00e2\u0080\u0099all hidden pets surrender them to me",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584460150994,
+      "content": "I kid I kid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584460129425,
+      "content": "You'll probably get the email in like 15min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584460121673,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/90058403_1128965950773241_6891704948363362304_n_1128965810773255.jpg",
+          "creation_timestamp": 1584460121
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584460026898,
+      "content": "We can get it for you and ship it if you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584460004668,
+      "content": "I swear it's sentient",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584459998487,
+      "content": "Does my blankie count as a pet",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584459997992,
+      "content": "I didn\u00e2\u0080\u0099t either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584459983520,
+      "content": "I didn't get that email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584459928613,
+      "content": "Any pets yall got hidden?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584459920033,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/90049348_839396593138008_5174677860664737792_n_2938884919505023.jpg",
+          "creation_timestamp": 1584459919
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584366983701,
+      "content": "Stay informed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584366980009,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89932974_210038250083543_4473408695929143296_n_194351891860008.jpg",
+          "creation_timestamp": 1584366979
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1584287418951,
+      "content": "Yass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584286825585,
+      "content": "Social distancing be like",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584286728252,
+      "videos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/videos/video1584286727_2073189046160467.mp4",
+          "creation_timestamp": 1584286727,
+          "thumbnail": {
+            "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/videos/thumbnails/72959220_3194213503922179_2120593527755699577_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584213170511,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584213159852,
+      "content": "Did y\u00e2\u0080\u0099all just make this in the other room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584212947750,
+      "videos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/videos/video1584212947_804702726607382.mp4",
+          "creation_timestamp": 1584212944,
+          "thumbnail": {
+            "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/videos/thumbnails/83906116_2766651690121307_7057134842675701357_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584208644533,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/20689015_1516869658352154_4897593860949016576_n_213972396381199.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584208629214,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/83398050_2774937985934035_6047421404259811328_n_499224457437152.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584208576021,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584208569763,
+      "content": "Just saw that.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584208535696,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89716190_2648430578735265_7391082470906527744_n_2648430545401935.jpg",
+          "creation_timestamp": 1584208535
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584208523187,
+      "content": "Welp we in danger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584208331086,
+      "content": "*hoarding my 4 for 4 candy boxes*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584208317340,
+      "content": "THEY GOT ME",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584208314579,
+      "content": "FUCK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584208300412,
+      "content": "@Chelsea Mayle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584208294281,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89470278_515686362471331_8483696200816525312_n_515686359137998.jpg",
+          "creation_timestamp": 1584208293
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584148608708,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/21297186_1442024655865987_5544204846673952768_n_2636642676625042.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584148552883,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/64932667_332382647709224_9178121893511692288_n_1655820831232084.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584148528257,
+      "content": "Seeing who are the real OGs rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584145821478,
+      "content": "McDonalds isn\u00e2\u0080\u0099t available on Ubereat rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584145557728,
+      "content": "\u00e2\u0080\u009cDistracted\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584145426382,
+      "content": "Got distracted and bought popeyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584144891936,
+      "content": "Wink wink?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584144867840,
+      "content": "she better get some toilet papers too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584144847677,
+      "content": "She come back with candy for all *wink wink*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584144844850,
+      "content": "When is she back?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584144832027,
+      "content": "It\u00e2\u0080\u0099s just me and rim here rn, Chelsea was here but she went to Walgreen for candy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584144813657,
+      "content": "Coming over in 20 mins. where is everybody at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584144734792,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89506605_2615053948783148_2090641327795470336_n_2615053945449815.jpg",
+          "creation_timestamp": 1584144734
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Khai Tran"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584135695863,
+      "content": "For people who are sticking around",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584135689202,
+      "content": "You're invited to join my group \"Evicted Stragglers\" on GroupMe. https://groupme.com/join_group/58628506/2sp1qQsC",
+      "share": {
+        "link": "https://web.groupme.com/join_group/58628506/2sp1qQsC"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584135204394,
+      "content": "Fun plan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584135201026,
+      "content": "Since no one wants to decide on a time, I am going to decide for us. Come to C15 at 9:00. We can mass ubereats McDonald\u00e2\u0080\u0099s. Or something. I sold the TV so we can\u00e2\u0080\u0099t watch anything. But we can stare at each other and scream.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584132970151,
+      "content": "Casey come outside into courtyard!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584130622036,
+      "content": "I see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584129982838,
+      "content": "Come at once!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1584129940427,
+      "content": "ahh I\u00e2\u0080\u0099ll be leaving in a few hours. If any of you are in Murray I\u00e2\u0080\u0099d love to say bye quickly\u00f0\u009f\u0098\u00a2\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584129824953,
+      "content": "For a final goodbye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584129821358,
+      "content": "What time are we all gathering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584108930438,
+      "content": "@Helena Bui",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584108788317,
+      "content": "Do you already have plans? T_T",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584108686187,
+      "content": "Because I don't know if I'll be able to make it up tonight, but I guess it depends.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584108681964,
+      "content": "Tomorrow at like 4ish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584108662112,
+      "content": "How long are people going to be there tomorrow? @ @Casey Ramsey when are you leaving?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584108392905,
+      "content": "Come over and say bye to people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584108357822,
+      "content": "What is going on tonight again...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584107221172,
+      "content": "Y\u00e2\u0080\u0099all ALL better come over tonight (I\u00e2\u0080\u0099m talking to you Khai, Helen, EVERYBODY) or I will roll your heads",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584062450821,
+      "content": "Hey, hope everyone\u00e2\u0080\u0099s doing okay (not Sarim because he hates us)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584058675087,
+      "content": "DAAAAAAYYYYYYYUUUUMM",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584058649168,
+      "content": "Hates*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584050754267,
+      "content": "Sarim just hate us that\u00e2\u0080\u0099s all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584046934217,
+      "content": "Sounds like a trap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584046437448,
+      "content": "We just want to talk to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584044498968,
+      "content": "y'all extra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584044491979,
+      "content": "i have this one muted as well",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584042046642,
+      "content": "I love how this became the new main group chat bc everyone except me and Chelsea had the other one muted so it was useless anyway",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584040498010,
+      "content": "And I don\u00e2\u0080\u0099t know but my EYEBALLS feel so WEIRD!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584040488699,
+      "content": "I miss you guys",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584040464030,
+      "content": "what does this mean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584040422251,
+      "content": "Also my eyes are dilated \u00f0\u009f\u0091\u0080 far out dudes!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584040313134,
+      "content": "I think they took away the poll feature from messenger!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584039192267,
+      "content": "Who\u00e2\u0080\u0099s gonna be in new haven ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584039185601,
+      "content": "But it won\u00e2\u0080\u0099t work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1584039181433,
+      "content": "Crap I\u00e2\u0080\u0099m trying to make a poll to keep track of where everyone will b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584037555183,
+      "content": "afternoon should be good",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584037430238,
+      "content": "To be fair I don\u00e2\u0080\u0099t have much of a leg to stand on seeing as I couldn\u00e2\u0080\u0099t even wake up for breakfast today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584037026599,
+      "content": "When is optimal lighting? @Surbhi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1584037026271,
+      "content": "I can be up whenever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584032666456,
+      "content": "What time for our photoshoot tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584032654053,
+      "content": "omg yessssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1584032331311,
+      "content": "guys. If any of y\u00e2\u0080\u0099all ends up staying in New Haven (on or off-campus) and needs food & supplies, make a list and send it to me. My first year adviser who\u00e2\u0080\u0099s working in SOM is organizing a team of alums to help stranded students. They\u00e2\u0080\u0099re doing a Costco run on Saturday and they\u00e2\u0080\u0099ll be glad to buy you groceries and the essentials.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584032107195,
+      "content": "I get good ones occasionally",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584032059839,
+      "content": "Ok no this is a great idea, I have no suggestions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584032028397,
+      "content": "Or",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584032027124,
+      "content": "Let's do it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584032025202,
+      "content": "Oh yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584032007980,
+      "content": "Tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584031997921,
+      "content": "Print out the cover sheet of your unfinished thesis, we can put some blank sheets of paper behind it, and we can all go down to sterling and take the rite of passage \u00e2\u0080\u009cfinished thesis\u00e2\u0080\u009d photo even if we\u00e2\u0080\u0099re not done",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marley Finley"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584031968112,
+      "content": "You guys I just got the most fun idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584023315405,
+      "content": "I\u00e2\u0080\u0099m leaving Saturday night and everyone is welcome to meet my mom and nana",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584022449498,
+      "content": "I'm staying in new haven pretty sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584021890889,
+      "content": "If you are leaving in the first place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584021886437,
+      "content": "Aka when is everyone leaving?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1584021874019,
+      "content": "How long are you guys going to be on campus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584020723607,
+      "content": "But I've got the student kitchen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1584020718260,
+      "content": "Tempting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1584020701455,
+      "content": "Surb and I about to go to the Wendy, last call",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1584020699646,
+      "content": "Leaving from main courtyard in two minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583986066716,
+      "content": "Anyone else is welcome to join! The weirdest last hurrah ever!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583986047397,
+      "content": "Amazing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583986044117,
+      "content": "Done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583986039054,
+      "content": "Wanna leave here at 9:30?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583986029011,
+      "content": "Okay I am down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583985960605,
+      "content": "They stop serving at 10:30 per internet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583985953935,
+      "content": "Whalley just past Popeyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583985937773,
+      "content": "When is breakfast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583985934800,
+      "content": "Where is Wendy's",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583985917703,
+      "content": "I have such curiosity about a major fast food chain only just now launching a breakfast menu, and I want to investigate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583985901760,
+      "content": "Who wants to go try Wendy\u00e2\u0080\u0099s breakfast with me in the morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583984953000,
+      "content": "Ok nvm m sleepy \u00f0\u009f\u0098\u00b4",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583984610272,
+      "content": "Midnight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1583984603444,
+      "content": "Whennnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583984575379,
+      "content": "Currently going thru a panic attack, so uhh I'll come by later?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583984550619,
+      "content": "Anyone interested?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583984548424,
+      "content": "Another game of Scrabble tonight?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583975123418,
+      "content": "someone is doing a ydn article on the yale announcement yesterday if any of u want to get some catharsis by talking to her -- valerie.pavilonis@yale.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583969733142,
+      "content": "Thanks tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583969717587,
+      "content": "I just got takeout lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1583967616513,
+      "content": "If you want company",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1583967611254,
+      "content": "I would dinner again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583967472912,
+      "content": "Is anyone dinnering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendrea Walker",
+      "timestamp_ms": 1583961817692,
+      "content": "Hi everyone I miss and love you all",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sarim Abbas"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chelsea Mayle"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kendrea Walker",
+      "timestamp_ms": 1583961807062,
+      "content": "Happy birthday Casey",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sarim Abbas"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casey Ramsey"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583954622434,
+      "content": "oo both sound nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583954576003,
+      "content": "Or chicken",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583954570305,
+      "content": "Imma make pasta(?)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583954556681,
+      "content": "I've got the kitchen tomorrow, Friday, and Saturday",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583954551403,
+      "content": "but i can get more ingredients depending",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583954545986,
+      "content": "i only have plans for chocolate chip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583954540547,
+      "content": "do yall want to make some cookies and such",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583954534638,
+      "content": "ive rented the kitchen for 9-11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583954268623,
+      "content": "I\u00e2\u0080\u0099ve started packing my suitcase and I\u00e2\u0080\u0099m getting super emotional Jesus Christ",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Helena Bui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583951881859,
+      "content": "And this honestly might be the last time some of us see each other until the first reunion.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Heather McClure"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Chelsea Mayle"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583951713916,
+      "content": "I think some of us (me, if nothing changes) are going to be out by Saturday.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583951697939,
+      "content": "We need to have a final get-together Friday night.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940725940,
+      "content": "Not actually humorous",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940720012,
+      "content": "\u00e2\u0080\u009cFunny\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940714785,
+      "content": "Lol, I don\u00e2\u0080\u0099t know. But I think that would be funny to do!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583940701244,
+      "content": "Are you planning on asking him if he knows wtf is going on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940687987,
+      "content": "So I don\u00e2\u0080\u0099t wanna disrupt...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940678452,
+      "content": "Also, I\u00e2\u0080\u0099m gonna do it, but he\u00e2\u0080\u0099s working on something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940663706,
+      "content": "LMAO GOOD ONE",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Surbhi Bharadwaj"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583940352217,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/50635306_2295766970433809_4188377662391058432_n_2229921610636739.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583940340733,
+      "content": "You might never see him again anyway",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583940332280,
+      "content": "Go for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940234990,
+      "content": "Should I ask him?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583940232669,
+      "content": "I\u00e2\u0080\u0099m sitting in a caf\u00c3\u00a9 right now in Branford and I see another Yalie and I don\u00e2\u0080\u0099t know who the hell he is...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903624018,
+      "content": "Thanks babe miss you \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joe Lybik"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joe Lybik",
+      "timestamp_ms": 1583903483404,
+      "content": "Happy birthday Casey! Hope dean Chun sends a swift reply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903128419,
+      "content": "Level-headed",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903124733,
+      "content": "Not an angry one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903112831,
+      "content": "A diatribe that I wrote on the toilet",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Surbhi Bharadwaj"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583903099796,
+      "content": "What'd you send?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903057355,
+      "content": "I just emailed Dean Chun. I don\u00e2\u0080\u0099t expect a reply but at least I\u00e2\u0080\u0099ve typed everything out and it will be easier to send wherever it needs to go.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583903029772,
+      "content": "Thanks friends goodnight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583903026951,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/30653771_1460012007432953_6570460868004282368_n_205894853957398.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583903005504,
+      "content": "We're here for you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Casey Ramsey"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583903000302,
+      "content": "This is a rough way to ring in 22 but hopefully things will only get better from here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583902999315,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583902996682,
+      "content": "Happy Birthday!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583902981013,
+      "content": "Happy birthday Casey!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583894094448,
+      "content": "Because the deans and hocs know about as much as we do from my understanding",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583894083123,
+      "content": "So we should probably just wait until we have official communication before doing anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583894068252,
+      "content": "But nothing is official yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583894060218,
+      "content": "Everything Laurie santos said was mostly what she thinks is going to happen/what ought to happen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583894043121,
+      "content": "Also need to caveat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583893276526,
+      "content": "im good but enjoyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583893271637,
+      "content": "haha nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583893129536,
+      "content": "McDonalds in my suite lmaoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583893127271,
+      "content": "can i possibly get in on this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583893119842,
+      "content": "what food are u ordering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583893107271,
+      "content": "Well I'm ordering food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583893086105,
+      "content": "come through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583893084026,
+      "content": "devesh is here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583893071094,
+      "content": "Are we congregating here or at Surbhi\u00e2\u0080\u0099s? Doesn\u00e2\u0080\u0099t matter to me. Through all of this I forgot that I\u00e2\u0080\u0099ll be 22 in less than 2 hours.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583890711147,
+      "content": "\u00e2\u009d\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583890696330,
+      "content": "Hang tight guys they will make sure everyone is taken care of im sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583890679640,
+      "content": "Rip \u00f0\u009f\u0098\u009e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889855361,
+      "content": "Loviiiiiiing it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583889799719,
+      "content": "okay sorry come after 10, gonna give my family a literal wake up call rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889753875,
+      "content": "This is peak spiraling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889748268,
+      "content": "I'm spiraling and I've got a junior and sophomore in my suite and im playing some smooth jazz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583889702893,
+      "content": "everything is sanitized, i promise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583889690290,
+      "content": "i will make you tea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583889686455,
+      "content": "ppl are welcome to come huddle in Murray B33",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889684481,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889629975,
+      "content": "Anyone else spiraling bad?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583889583112,
+      "content": "\"wash ur hands!!\" - tina lu, in the middle of a pandemic and mass hysteria",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Casey Ramsey"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889553086,
+      "content": "Why isn\u00e2\u0080\u0099t our HOC doing this :(",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889536957,
+      "content": "big yikes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583889485471,
+      "content": "Omg like pack up pack up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889457284,
+      "content": "Does time sensitive lab research, financial constraints, and a quarantined home zone count as extenuating circumstances ahhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889455947,
+      "content": "They don\u00e2\u0080\u0099t have an answer to that yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889445524,
+      "content": "She said if you can come back to pack up you should",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583889402933,
+      "content": "Do jobs we can\u00e2\u0080\u0099t leave count as an extenuating circumstance?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583889398136,
+      "content": "Like everyone everyone? Like come back and get your stuff? Or like people who are still on campus?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889385374,
+      "content": "But if you have extenuating circumstances then we have to wait",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889373093,
+      "content": "If you have a place to move then start packing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583889369676,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889363469,
+      "content": "The tldr is start packing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583889345548,
+      "content": "Report back fellow soldier!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889291906,
+      "content": "I\u00e2\u0080\u0099m here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583889270364,
+      "content": "She\u00e2\u0080\u0099s holding a forum right now",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583889251370,
+      "content": "Did she say that in a silliman-only email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1583889183902,
+      "content": "Casey\u00e2\u0080\u0099s idol Laurie Santos says she doubts we will be back on the 4th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583888046332,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583887987333,
+      "content": "Per his email it just sounds like we can stay as long as our head and Dean are ok with it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583887954476,
+      "content": "Somewhat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583887949649,
+      "content": "It\u00e2\u0080\u0099s ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583887949452,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89661569_488015262082377_535302883864739840_n_488015258749044.jpg",
+          "creation_timestamp": 1583887948
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583887870823,
+      "content": "C15. 10:30. Discussion and cupcakes*\n\n*5 cupcakes to split among however many of us there are",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Heather McClure",
+      "timestamp_ms": 1583887462657,
+      "content": "Yeah Dean said the same tomorrow morning",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1583887455584,
+      "content": "The email mentioned students who can\u00e2\u0080\u0099t go home so I\u00e2\u0080\u0099m sure they\u00e2\u0080\u0099ll help out somehoe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583887408086,
+      "content": "She emailed me back in 2 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583887402410,
+      "content": "Prof T told me that she hasn\u00e2\u0080\u0099t been told much but we should receive an email from Dean Chun tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583887353506,
+      "content": "I did. I let Rosas and Prof T know. :/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1583887322120,
+      "content": "Well then you should let Yale knows that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583887286776,
+      "content": "I know that y\u00e2\u0080\u0099all who can\u00e2\u0080\u0099t go home are in touch with Dean Rosas and Prof T already because like they\u00e2\u0080\u0099re open to emails and questions and stuff right now anyway.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583887250461,
+      "content": "Like i cant go into stark county",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583887241968,
+      "content": "@Khai Tran Can''t go home because my house is literally in a quarantined zone.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583887232263,
+      "content": "Or just like can\u00e2\u0080\u0099t for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583887227280,
+      "content": "And like can\u00e2\u0080\u0099t afford to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583887220174,
+      "content": "I don\u00e2\u0080\u0099t think it\u00e2\u0080\u0099s about the grades only, some people like can\u00e2\u0080\u0099t go home and like back and forth.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1583887180720,
+      "content": "Better safe than sorry. Your health and the wellbeing of others are more important than grades.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886809350,
+      "content": "legit this is feeling like a gross overrreaction",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583886777799,
+      "content": "Yeah, I don\u00e2\u0080\u0099t think they\u00e2\u0080\u0099re going to do that. Going home can be a lot more dangerous than just staying in new haven so... what the heck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886735826,
+      "content": "so like, they would be puttting me in harm's way by sending me back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886729908,
+      "content": "Let\u00e2\u0080\u0099s have a meeting in C15 at 10:30 to air grievances",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Heather McClure"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886716636,
+      "content": "and also, in ohio, someone is literally quarantined 2 blocks from my house",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Heather McClure"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583886714896,
+      "content": "It\u00e2\u0080\u0099s fucking dumb as shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886712968,
+      "content": "That email used a lot of words to say nothing",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886703976,
+      "content": "No, it\u00e2\u0080\u0099s not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886695999,
+      "content": "Financially its not feasible for a shit ton of students to do that",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886682702,
+      "content": "After I\u00e2\u0080\u0099ve already found a job in Toccoa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886675695,
+      "content": "My main fear is jumping ship now and then them being like \u00e2\u0080\u009csike you gotta come back\u00e2\u0080\u009d on April 5th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583886653760,
+      "content": "Facilities are still open, like dining halls are going to be open so I\u00e2\u0080\u0099m not sure what they\u00e2\u0080\u0099re thinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886628300,
+      "gifs": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/gifs/51043004_275737966656849_3691659918605025280_n_576273922973295.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583886628262,
+      "content": "Hopefully y\u00e2\u0080\u0099all won\u00e2\u0080\u0099t be forced to leave though. Like unless they\u00e2\u0080\u0099re ready to fund everything about your move.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Khai Tran"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886619942,
+      "content": "\u00e2\u0080\u009cCome on, vague, let your body move to the music\u00e2\u0080\u009d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Joe Lybik"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583886553834,
+      "content": "The email is really vague. There are going to be more details tomorrow apparently, but I don\u00e2\u0080\u0099t know.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886540979,
+      "content": "I'm in an email chain with them currently",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886529236,
+      "content": "About to email T and Dean",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886519862,
+      "content": "I got too much to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583886514124,
+      "content": "I\u00e2\u0080\u0099m not leaving",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886061132,
+      "content": "Anyone else trapped on campus :]",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886031801,
+      "content": "what a fuckign shitshow this is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583886026797,
+      "content": "Guess that was the last time seeing everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1583885750518,
+      "content": "It\u00e2\u0080\u0099s been real y\u00e2\u0080\u0099all \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583556843895,
+      "content": "Cracker Barrel is lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khai Tran",
+      "timestamp_ms": 1583554031114,
+      "content": "ok grandma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mari Melin",
+      "timestamp_ms": 1583553545097,
+      "content": "We'll take another one at Cracker Barrel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1583553499487,
+      "content": "It was actually Sarim\u00e2\u0080\u0099s idea",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Mari Melin"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583553379962,
+      "content": "This isn\u00e2\u0080\u0099t arethusa part 2 I promise",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Mari Melin"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583553369743,
+      "content": "No it was spontaneous",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mari Melin",
+      "timestamp_ms": 1583553358882,
+      "content": "Did you wait til i left to take a pic...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583553097979,
+      "content": "Who Junzi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583550542588,
+      "content": "You added Khai Tran and Casey Ramsey to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Khai Tran"
+        },
+        {
+          "name": "Casey Ramsey"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583550531709,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg/photos/89370597_2337054439926103_1607936035071721472_n_2337054433259437.jpg",
+          "creation_timestamp": 1583550531
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mari Melin",
+      "timestamp_ms": 1583543997525,
+      "content": "I am outside!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Surbhi Bharadwaj",
+      "timestamp_ms": 1583543474556,
+      "content": "Pull through",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583542342856,
+      "content": "birthday party!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583541468283,
+      "content": "There\u00e2\u0080\u0099ll be cake and then we\u00e2\u0080\u0099ll Uber Eats some food LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583541358581,
+      "content": "Middle courtyard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583541336695,
+      "content": "Pauli Murray suite C-15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583541328742,
+      "content": "If you could swing by 8pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583541324456,
+      "content": "Hey everyone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583471860511,
+      "content": "You added Devesh Agrawal to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Devesh Agrawal"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583455946443,
+      "content": "Ordered the cake, it was $23. Like this msg if ur interested in splitting w me and I\u00e2\u0080\u0099ll Venmo req you. No pressure tho",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Marley Finley"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mari Melin"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joe Lybik",
+      "timestamp_ms": 1583453394467,
+      "content": "Please send my love",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Joe Lybik",
+      "timestamp_ms": 1583453390588,
+      "content": "I\u00e2\u0080\u0099ll have left for spring break by then \u00f0\u009f\u0098\u00a2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mari Melin",
+      "timestamp_ms": 1583443969607,
+      "content": "If it's tomorrow then yes!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583443934817,
+      "content": "mari are you coming??? will i finally get to see you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mari Melin",
+      "timestamp_ms": 1583443912555,
+      "content": "Chocolate!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583443355494,
+      "content": "I\u00e2\u0080\u0099m gonna order now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583443336041,
+      "content": "Ok any cake flavor preferences?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583443275357,
+      "content": "Yes. That's the final decision.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583443263291,
+      "content": "So Friday 8pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583440777984,
+      "content": "But just talked to casey and  he wants to do something extroverted Friday instead of after work. So, 8pm Friday. And that time works for Khai as well.  Assignments have to be in before 5pm.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583440559868,
+      "content": "You could always drive over for a quick visit :D Branford isnt super far if you arent traveling further from home as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583439923531,
+      "content": "i won\u00e2\u0080\u0099t be here, i would prefer tomorrow but it\u00e2\u0080\u0099s their birthday party so whatever you think @Sarim Abbas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583439905182,
+      "content": "So are we feeling 7pm on saturday now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583439860033,
+      "content": "that\u00e2\u0080\u0099s what he said.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583439842057,
+      "content": "Until 8pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583439813504,
+      "content": "just wanted to let y\u00e2\u0080\u0099all know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583439809739,
+      "content": "casey has work and is free by 6 pm tomorrow and then until 8 pm on saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583425807373,
+      "content": "Tuxedo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583425770498,
+      "content": "Running to another midterm ttyl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583425718862,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583425698749,
+      "content": "I\u00e2\u0080\u0099ll order it this afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583425693989,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583425671241,
+      "content": "You can pick it up at like 9pm or later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583425617914,
+      "content": "Do we need a freezer to store it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583425615974,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583425291437,
+      "content": "2 flavors",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583425291260,
+      "content": "Small from Ashley's should be enough, order 24hrs ahead of time about 22-25 dollars for the ice cream cake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583422489776,
+      "content": "Ok so should we go for Friday evening? 10pm? @Chelsea @Erik how long does the ice cream cake take to order/from where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583366707533,
+      "content": "awww marley :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583366034856,
+      "content": "i don't think i'll have time to get something before then to bring by but can order a pizza to b delivered?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Chelsea Mayle"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583360731252,
+      "content": "Send them well wishes and snacks then(?)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Marley Finley",
+      "timestamp_ms": 1583360381555,
+      "content": "i'll b leaving friday morning :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358799605,
+      "content": "You added Erik Lindsay to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Erik Lindsay"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358577104,
+      "content": "Okie, let\u00e2\u0080\u0099s let this sit for the next hour-ish so people have time to read the chat and make any objections. Then we can think about food, wine etc. yay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583358460070,
+      "content": "we could do friday evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358385069,
+      "content": "When are you gonna leave? We could do Friday evening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583358319616,
+      "content": "i think i'm going to go home on friday but i can donate a bottle of wine or something for the sake of the party",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358224175,
+      "content": "i think messenger removed polls so not sure how to gauge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358212483,
+      "content": "i like that if it works for others too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583358178473,
+      "content": "by head start i mean having a plan, so we don't scramble for stuff on the day before. and then break starts Fri, but people will probably have assignments due",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583358173847,
+      "content": "@Sarim Abbas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583358149910,
+      "content": "Saturday at 7pm, your or my suite, ice cream cake as usual to not poison erik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583358103747,
+      "content": "because people are going to be away/traveling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583358094010,
+      "content": "is this going to happen before or after break? because like what head start are you talking about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Helena Bui",
+      "timestamp_ms": 1583358061116,
+      "content": "wait i like this idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583357889096,
+      "content": "You added Felicia Chang and 3 others to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Felicia Chang"
+        },
+        {
+          "name": "Isa del T"
+        },
+        {
+          "name": "Surbhi Bharadwaj"
+        },
+        {
+          "name": "Alanis Allen"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583357832155,
+      "content": "is there a good time when mostly everyone is here? we could do it before the 11th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583357757151,
+      "content": "So i guess the main areas are: time, venue, food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chelsea Mayle",
+      "timestamp_ms": 1583357390334,
+      "content": "11th indeed 4 casey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583357003382,
+      "content": "You added Heather McClure and Kendrea Walker to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Heather McClure"
+        },
+        {
+          "name": "Kendrea Walker"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583356961354,
+      "content": "Khai\u00e2\u0080\u0099s happened two days ago, and I think Casey\u00e2\u0080\u0099s is the coming Wednesday",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Helena Bui"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583356937261,
+      "content": "Would appreciate help and ideas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583356929973,
+      "content": "Hey everyone, thought I\u00e2\u0080\u0099d get a head start this year in planning Casey and Khai\u00e2\u0080\u0099s joint birthday party",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang, Devesh Agrawal, Erik Lindsay and 14 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangDeveshAgrawalErikLindsayand14others_9J029wEfVg"
+}

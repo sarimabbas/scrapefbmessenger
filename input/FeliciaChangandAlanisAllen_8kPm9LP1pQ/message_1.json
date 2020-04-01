@@ -1,0 +1,279 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Alanis Allen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1576445658411,
+      "content": "This is tragedy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1576445640691,
+      "content": "Aww",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alanis Allen",
+      "timestamp_ms": 1576445631575,
+      "content": "1 out of every 3 succulents won\u00e2\u0080\u0099t propagate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1576445544920,
+      "content": "Why is mine the only one that died \u00f0\u009f\u0098\u00ad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1576444303845,
+      "content": "OMG ROOTSSSS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1576444299459,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandAlanisAllen_8kPm9LP1pQ/photos/79342547_2606525456107801_5794395453399236608_n_2606525426107804.jpg",
+          "creation_timestamp": 1576444298
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Alanis Allen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575754027562,
+      "content": "yep yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575753952509,
+      "content": "Awesome ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753948506,
+      "content": "k done!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575753937674,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753888662,
+      "content": "yea delivery at 7:45 should be fine right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575753812600,
+      "content": "Ahh I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753798071,
+      "content": "advance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753794469,
+      "content": "nah you need to order blue state 2 days in advace",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753786631,
+      "content": "yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575753741844,
+      "content": "Did we need to pick up blue state stuff as well?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575753721237,
+      "content": "Tomorrow right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753708610,
+      "content": "ok cool im ordering insomnia to be delivered to wlh at 7:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alanis Allen",
+      "timestamp_ms": 1575753523445,
+      "content": "probably",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575753514334,
+      "content": "is there a projector in wlh 112",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574799368374,
+      "content": "Mines dead basically",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alanis Allen",
+      "timestamp_ms": 1574799044613,
+      "content": "sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574799022420,
+      "content": "for safekeeping over the winter break?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574799011331,
+      "content": "could i give you mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574799001032,
+      "content": "thats insane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574798997962,
+      "content": "8 weeks to grow roots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Alanis Allen",
+      "timestamp_ms": 1574798992356,
+      "content": "it takes 8 weeks i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574798977997,
+      "content": "did yours have any luck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574798972176,
+      "content": "its probably dead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574798965732,
+      "content": "mine didnt grow any roots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574798961915,
+      "content": "the succulent girl was messing with us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574446276538,
+      "content": "Does this work for u guys",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alanis Allen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574446274395,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandAlanisAllen_8kPm9LP1pQ/photos/74900212_425779508119099_9112737450291101696_n_425779488119101.jpg",
+          "creation_timestamp": 1574446272
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574357867578,
+      "content": "Cause wlh took like 2 weeks last time I tried",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574357857123,
+      "content": "Are there any spaces that we can reserve quickly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574266458748,
+      "content": "Is there a specific day you'd want to hold it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574265134187,
+      "content": "Yea def I was thinking possibly during reading week",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1574265094229,
+      "content": "Sure but possibly after the upcoming break?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1574260767873,
+      "content": "Thoughts on setting up a Notion x thinkspaces study break?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Alanis Allen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandAlanisAllen_8kPm9LP1pQ"
+}

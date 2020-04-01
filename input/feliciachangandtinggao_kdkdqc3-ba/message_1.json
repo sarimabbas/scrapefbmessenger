@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Ting Gao"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1582820731115,
+      "content": "tyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582820292636,
+      "content": "Awesome tysm!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ting Gao",
+      "timestamp_ms": 1582819870824,
+      "content": "^ feel free to send to anyone you think would be interested",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ting Gao",
+      "timestamp_ms": 1582819847152,
+      "content": "https://forms.gle/PzmAh2Pi5VWe93HUA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ting Gao",
+      "timestamp_ms": 1582819843743,
+      "content": "hiya, if you want to feature Thinkspaces in Tsai's newsletter, make sure to fill out this 2 min survey. They are listing a few startups every couple of weeks -- it's like free adspace",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Ting Gao",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandTingGao_kdkDqc3-BA"
+}

@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Ramiz \u00c3\u0087olak"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803804710,
+      "content": "Lets make a doc to record what we do on a timeline so that it is easier to catch up for others",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803778773,
+      "content": "When i get free time, I will also check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803757517,
+      "content": "Also forwarded the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803751953,
+      "content": "https://drive.google.com/drive/folders/188m7CqgRLJbTDuBInVQhXeiyTlobr2gD?usp=sharing_eil&ts=5ab98404",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F188m7CqgRLJbTDuBInVQhXeiyTlobr2gD%3Fusp%3Dsharing_eil%26ts%3D5ab98404&followup=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F188m7CqgRLJbTDuBInVQhXeiyTlobr2gD%3Fusp%3Dsharing_eil%26ts%3D5ab98404"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1522803713951,
+      "content": "could u resend the link?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803669247,
+      "content": "If you can get on that and ht me up with specific tasks that would be awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803649339,
+      "content": "Swamped in commitments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803640243,
+      "content": "I could not do much so sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramiz \u00c3\u0087olak",
+      "timestamp_ms": 1522803630407,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1522803551348,
+      "content": "just wondering if i should be getting on that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1522803544152,
+      "content": "hey ramiz where r u on the grant stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517288974387,
+      "content": "Awesome!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517288697872,
+      "content": "We should be able to copy-paste some answers from the community engagement grant application here: https://docs.google.com/document/d/1hAkJm-RkYy3VJCdkWigi3ZuADG9OWjdD4rwZCu8ioHo/edit?usp=sharing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517288609668,
+      "content": "Hi guys, so this week we have some deadlines coming up that I am hoping we can work on together. On Feb 1 is the Dean's Discretionary Fund deadline. I've put the questions in a Google Doc: https://docs.google.com/document/d/1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM/edit?usp=sharing",
+      "share": {
+        "link": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM%2Fedit%3Fusp%3Dsharing&followup=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1mag2lceCLq1sdy_kLKLcp44zwBn1jkr9kPj5udQI4pM%2Fedit%3Fusp%3Dsharing&ltmpl=docs"
+      },
+      "type": "Share"
+    }
+  ],
+  "title": "Felicia Chang and Ramiz \u00c3\u0087olak",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandRamizColak_oy8uNi-pdQ"
+}

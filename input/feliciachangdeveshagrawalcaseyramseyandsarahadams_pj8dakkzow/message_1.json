@@ -1,0 +1,522 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Devesh Agrawal"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Casey Ramsey"
+    },
+    {
+      "name": "Sarah Adams"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575152137015,
+      "content": "Oh nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575152132067,
+      "content": "Work bought us dinner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575152129210,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575152128565,
+      "content": "I\u00e2\u0080\u0099m down in the basement eating a sandwich from Gheav",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575152126323,
+      "content": "Joints with the boiz",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575152117019,
+      "content": "What do you do in your down time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575152100543,
+      "content": "(After 6 when I come back upstairs from break)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575152090003,
+      "content": "I\u00e2\u0080\u0099m at work come visit me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575149722692,
+      "content": "Any of y\u00e2\u0080\u0099all interested in eating at house of naan?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575066793123,
+      "content": "Are y\u00e2\u0080\u0099all on your way? I\u00e2\u0080\u0099m really hungry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065882397,
+      "content": "*fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065876943,
+      "content": "*already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065873063,
+      "content": "Duck Im  there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575065691091,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575065666269,
+      "content": "Jk I\u00e2\u0080\u0099m the flake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575065661223,
+      "content": "Flake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065656846,
+      "content": "I\u00e2\u0080\u0099ll be late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065653572,
+      "content": "Can we bump to 5:40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065215837,
+      "content": "bikes bad walking good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065205548,
+      "content": "Or use the bike share it\u00e2\u0080\u0099s literally the best thing ever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065158605,
+      "content": "if you want to walk that stretch with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065150240,
+      "content": "i can intercept @Felicia on XC",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065148771,
+      "content": "Can you ride a bike?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575065142645,
+      "content": "ok see u there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575065138362,
+      "content": "sad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575065137792,
+      "content": "now i need to walk myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575065134608,
+      "content": "loool damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065120780,
+      "content": "I'll see you there at 5:30!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065111302,
+      "content": "okeydokey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065108526,
+      "content": "Yes from me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065099102,
+      "content": "so yes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065060422,
+      "content": "I\u00e2\u0080\u0099ll be on my bike stopping at ups anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575065051312,
+      "content": "Yeah I can bike to ccam actually so it\u00e2\u0080\u0099s not an issue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065038545,
+      "content": "@Sarim @Felicia are y'all still down to go to Mamouns?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065023340,
+      "content": "absolute madlad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575065020843,
+      "content": "HAHAHAH",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575064985832,
+      "content": "I\u00e2\u0080\u0099m a pleb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575064983627,
+      "content": "I just ordered McDonald\u00e2\u0080\u0099s lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064615065,
+      "content": "i am open to other food choices as well. alanis gets thai delivery pretty often lol we could do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575064556766,
+      "content": "i don't mind the walk, but that being said i am closer than y'all (currently working in stiles)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064525691,
+      "content": "should we just go..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1575064398540,
+      "content": "It\u00e2\u0080\u0099ll get soggy if we deliver!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064396306,
+      "content": "a dollar more on every thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064375452,
+      "content": "The prices are kind of inflated though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064339015,
+      "content": "@Devesh Agrawal we are currently considering mamoun delivery to murray lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064326373,
+      "content": "Felicia Chang added Devesh Agrawal to the group.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Devesh Agrawal"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064308028,
+      "content": "Let me check",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064306059,
+      "content": "I think Grubhub does Mamoun delivery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064288730,
+      "content": "loool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575064284679,
+      "content": "I\u00e2\u0080\u0099m baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575064280559,
+      "content": "I don\u00e2\u0080\u0099t want to WALK anywhere lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575064274463,
+      "content": "We could just order something non-mamouns",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064268724,
+      "content": "dev wants to come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064265282,
+      "content": "mm idk we can also walk haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064252902,
+      "content": "Mamouns does delivery?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064244109,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064240985,
+      "content": "sarahs not coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064235808,
+      "content": "wait how much would it cost to order to murray lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064222345,
+      "content": "Where is Sarah gonna be coming from?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064214193,
+      "content": "Maybe we can meet like 5:10-5:15ish?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064204845,
+      "content": "Ok I\u00e2\u0080\u0099ll make a run",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064197077,
+      "content": "Ooh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064193736,
+      "content": "i dont :( ceid?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064191548,
+      "content": "They\u00e2\u0080\u0099re some old boots I need to get rid off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064179448,
+      "content": "Any chance you have packing tape?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575064173239,
+      "content": "I actually have to ship a package super quick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575064152796,
+      "content": "wana walk down tgt in 10? i can meet u outside murray",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575059216697,
+      "content": "Oh ok we\u00e2\u0080\u0099ll def make that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059178449,
+      "content": "Ah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575059169889,
+      "content": "I don\u00e2\u0080\u0099t think you can eat on the premises if you snackpass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059160544,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059157414,
+      "content": "Or will they not let us eat on premises",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575059153669,
+      "content": "You can pay with card as long as you spend more than $10 I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059147686,
+      "content": "Do you reckon we could Snackpass before going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059138013,
+      "content": "Hmm sure but I also may not have much cash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1575059121536,
+      "content": "I don\u00e2\u0080\u0099t own cash can I Venmo you bb @Sarim Abbas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575059115895,
+      "content": "(More of a reminder to myself lol)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1575059104238,
+      "content": "Don\u00e2\u0080\u0099t forget to bring cash!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1575059079429,
+      "content": "Hello! Food? 5:30? Mamouns?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang, Devesh Agrawal, Casey Ramsey and Sarah Adams",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangDeveshAgrawalCaseyRamseyandSarahAdams_pj8DAKKzow"
+}

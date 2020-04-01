@@ -1,0 +1,228 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Isa del T"
+    },
+    {
+      "name": "Sarim Abbas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1517419874687,
+      "content": "yeppers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517419654013,
+      "content": "And then export a png layer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517419643643,
+      "content": "Isa could you also crop the artboard to the circle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517419627914,
+      "content": "Awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517418542093,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1517417652033,
+      "content": "that's the transparent version, so that's how it would look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1517417585478,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandIsadelT_G_rM_rTlWg/photos/27498097_1966472413381885_94882880_n_1966472413381885.png",
+          "creation_timestamp": 1517417584
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417148448,
+      "content": "ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1517417121488,
+      "content": "Hmmmm....\nI know how to do it outside of illustrator!!\nI can do it quickly once to see how it works\nAnd then figure it out in illustrator later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417071346,
+      "content": "isa if u know how to properly erase on illustrator pls help lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417060049,
+      "content": "also the white part of the body is not actually transparent but a white box/it extends beyond the circle but not super sure how to use the eraser",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1517417055459,
+      "content": "Oooh\nI really like both\nBut this version looks cleaner :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417013346,
+      "content": "without the black line that juts out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417002740,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandIsadelT_G_rM_rTlWg/photos/27497543_10210611342336488_147702367_n_10210611342336488.png",
+          "creation_timestamp": 1517417001
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517417000509,
+      "content": "do u think this is better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416352633,
+      "content": "Tyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416349443,
+      "content": "Yeah actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517416338540,
+      "content": "would you prefer i just put the illustrator file on there?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416313558,
+      "content": "Awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416310064,
+      "content": "So we can start using it rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517416309195,
+      "content": "yep!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416281346,
+      "content": "No it\u00e2\u0080\u0099s cool, if you could put high res versions of this, cropped and with transparency on Trello that would be epic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517416246240,
+      "content": "but if u dont rlly like htis one/ want me to make changes on color etc lmk!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416245653,
+      "content": "Looks good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517416225377,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandIsadelT_G_rM_rTlWg/photos/27653652_10210611277414865_153721086_o_10210611277414865.png",
+          "creation_timestamp": 1517416224
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1517416224245,
+      "content": "Hey, we kinda decided on one of the older logos that I designed:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1517416077455,
+      "content": "Hey guys were you able to decide on a final logo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Isa del T",
+      "timestamp_ms": 1515732905478,
+      "content": "hi, sorry, hadn't seen this\nwill put mine up in a bit!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1515732853341,
+      "content": "alright they should all be up now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1515685870388,
+      "content": "Okie!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1515682790764,
+      "content": "Yepp getting on a flight back to Yale rn but I\u00e2\u0080\u0099ll do it as soon as I land!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1515670997778,
+      "content": "Hey Felicia, Isa mentioned she\u00e2\u0080\u0099d like to work on the Thinkspace logo and visual design. Can you guys work together to upload all existing logo designs you have on Trello? And then decide on or prototype one we can use? It can be very rough and anything works, we can refine it as the year progresses. If you guys can upload high res PNGs of your work with background transparency, we can start using the final logo everywhere",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Isa del T",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandIsadelT_G_rM_rTlWg"
+}

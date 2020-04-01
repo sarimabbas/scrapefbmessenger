@@ -1,0 +1,358 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Sabrina Long"
+    },
+    {
+      "name": "Sarim Abbas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1570645524167,
+      "content": "Ooh gotcha, thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1570641835100,
+      "content": "Btw, some additional programs that are open: redfin, Duolingo, indeed (soon)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1570641791103,
+      "content": "I'm definitely too lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1570641787547,
+      "content": "Hello! No, I never write cover letters haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1570640986331,
+      "content": "Hey Sabrina, I was wondering if you tend to write cover letters for your applications? They take so long to write. Are they worth it in general?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567656977435,
+      "content": "Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567656975420,
+      "content": "Gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567655865329,
+      "content": "The recruiter will get in touch after the referral if they're interested",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567655847714,
+      "content": "As in, there's no harm to also applying online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567655832224,
+      "content": "I would recommend you still do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567653354076,
+      "content": "If you get referred to fb, do you still need to apply to the main listing online? Or does the recruiter get in touch and ask you to fill out a separate form?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567468559346,
+      "content": "Thanks Sarim!!! \u00f0\u009f\u00a4\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567464441686,
+      "content": "Good luck for your interview Sabrina!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567455342812,
+      "content": "https://www.glassdoor.com/Interview/Facebook-Product-Manager-Interview-Questions-EI_IE40772.0,8_KO9,24.htm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567451729942,
+      "files": [
+        {
+          "uri": "messages/inbox/FeliciaChangandSabrinaLong_alQ9sbr5rA/files/DecodeandConquerAnswerstoProductManagementInterviewsepub_384341935610060.zip",
+          "creation_timestamp": 1567451725
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1567381123509,
+      "content": "hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380729661,
+      "content": "yeah that works for me",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sabrina Long"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380720872,
+      "content": "Can we do tomorrow 3pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380707394,
+      "content": "i should be free pretty much all day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380700739,
+      "content": "tomorrow 7pm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380683254,
+      "content": "I can only do before 7pm sorry guys haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380639942,
+      "content": "No that was totally my fault lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380625085,
+      "content": "my bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380624891,
+      "content": "LOL omg rip me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380623271,
+      "content": "ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380620196,
+      "content": "I meant today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380616682,
+      "content": "Whoops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380614989,
+      "content": "O I said tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380602407,
+      "content": "lmaoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567380600763,
+      "content": "oh wait, we're doing today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567380578384,
+      "content": "Running late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567374689836,
+      "content": "sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567374681817,
+      "content": "we can meet there 7:30 :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567374676891,
+      "content": "maybe let's just try the ceid then haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567374484140,
+      "content": "i can ask a froco if she can let us into one of the locked rooms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567374475023,
+      "content": "hmm there are seminar rooms and student activities room but usually locked. The music rooms can be good but no white board.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567373166518,
+      "content": "is there a good interview space in murray?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567365580868,
+      "content": "can do ceid if its more convenient",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567365541516,
+      "content": "either works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567363455955,
+      "content": "or we can meet in the ceid or such",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567363450610,
+      "content": "ok! i'll come to murray",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567354215480,
+      "content": "Yep works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567354152232,
+      "content": "7:30 ok? PM stuff for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567352841505,
+      "content": "Did you guys wanna do more swe stuff or pm-ey stuff? I\u00e2\u0080\u0099ll read up accordingly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567352813426,
+      "content": "Maybe evening?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1567350373122,
+      "content": "Time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1567349942422,
+      "content": "I\u00e2\u0080\u0099m up for it too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1567348859282,
+      "content": "Yeet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567347570082,
+      "content": "anybody want to interview prep tmrw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sabrina Long",
+      "timestamp_ms": 1567095869611,
+      "content": "yay ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1567010446845,
+      "content": "grp chat so we can set up times to prepp",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Sabrina Long",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandSabrinaLong_alQ9sbr5rA"
+}

@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Lucy Liu"
+    },
+    {
+      "name": "Sarim Abbas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1584396046019,
+      "content": "ok will find the goods before we play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Liu",
+      "timestamp_ms": 1584392166953,
+      "content": "my username is azuxa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Liu",
+      "timestamp_ms": 1584392159630,
+      "content": "mouse is also necessary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Liu",
+      "timestamp_ms": 1584392155277,
+      "content": "id recommend playing with a keyboard for sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Liu",
+      "timestamp_ms": 1584392140982,
+      "content": "this is so exciting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lucy Liu",
+      "timestamp_ms": 1584392137333,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1584329904851,
+      "content": "@Lucy Liu please enlighten us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584329904535,
+      "content": "You\u00e2\u0080\u0099ve landed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584329902675,
+      "content": "Onfggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1584329896585,
+      "content": "This will be the first thing I do when i get home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584311546702,
+      "content": "also @doomblah is my handle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584311475262,
+      "content": "do u think its worth playing with an xbox controller or would that be the noob thing to do?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1584311457743,
+      "content": "ok guys im working through the league tutorial",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Lucy Liu",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandLucyLiu_9zYNiXX0XA"
+}

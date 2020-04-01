@@ -1,0 +1,294 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Devesh Agrawal"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Alanis Allen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582488383036,
+      "content": "okay babies going to go off the grid",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487784890,
+      "content": "coocoocoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487775442,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582487770096,
+      "content": "the ones on the notion page are really good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487758845,
+      "content": "gg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582487702917,
+      "content": "the second one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582487698957,
+      "content": "this one is in a jank neighborhood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487632490,
+      "content": "we can also plan this later tonight/this week if we want",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Devesh Agrawal"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487621607,
+      "content": "this ones not bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487620980,
+      "content": "https://www.airbnb.com/rooms/21821898?source_impression_id=p3_1582487547_dfXVnv%2FGzMyBV4AR",
+      "share": {
+        "link": "https://www.airbnb.com/rooms/21821898"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487608037,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582487603993,
+      "content": "and like if it's far then the amount we save on rent is made up in having to take ubers, zipcars, train tickets etc.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582487580414,
+      "content": "if we are there for four days it makes sense to be closer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487509791,
+      "content": "gg far tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487402403,
+      "content": "https://www.airbnb.com/rooms/12364855?source_impression_id=p3_1582487380_LCvSj8H%2FQ9Ia%2BkFj",
+      "share": {
+        "link": "https://www.airbnb.com/rooms/12364855"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487401985,
+      "content": "whole apt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487399085,
+      "content": "$55",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582487396790,
+      "content": "wait i found a steal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485984184,
+      "content": "we don't want to stay somewhere jank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485980610,
+      "content": "and it seems like it's in a good neighborhood as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485970318,
+      "content": "80 dollars a night between four people is nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485964709,
+      "content": "let's do the super nice one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1582485861218,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582485704018,
+      "content": "yea i think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485497957,
+      "content": "getting a two bedroom would suffice right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485292496,
+      "content": "I don't ever want to graduate",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Felicia Chang"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485288632,
+      "content": "devesh.agrawal@Yale.edu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582485274692,
+      "content": "which email r u using",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485265763,
+      "content": "thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582485258330,
+      "content": "let me invite you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485172429,
+      "content": "but then will I get your updates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485168218,
+      "content": "do I duplicate it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582485165703,
+      "content": "how do I add this to my notion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582484861924,
+      "content": "gonna add airbnb choices there - feel free to contribute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582484822467,
+      "content": "https://www.notion.so/feliciachang/DC-Spring-Break-Trip-20f9a8bca3964f8787f67574241a2a67",
+      "share": {
+        "link": "https://www.notion.so/20f9a8bca3964f8787f67574241a2a67"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582484818457,
+      "content": "made a notion page for dc trip!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Devesh Agrawal",
+      "timestamp_ms": 1582385734753,
+      "content": "Sadddd I\u00e2\u0080\u0099m heading down now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582385716387,
+      "content": "Y\u00e2\u0080\u0099all missed out!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582385710671,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangDeveshAgrawalandAlanisAllen_VXGp7xG0Dg/photos/87100191_882520798835738_2105871058488786944_n_882520795502405.jpg",
+          "creation_timestamp": 1582385709
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582379794842,
+      "content": "R ppl still interested in peloton in 30?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang, Devesh Agrawal and Alanis Allen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangDeveshAgrawalandAlanisAllen_VXGp7xG0Dg"
+}

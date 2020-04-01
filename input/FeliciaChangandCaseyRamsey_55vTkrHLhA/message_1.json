@@ -1,0 +1,159 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Sarim Abbas"
+    },
+    {
+      "name": "Casey Ramsey"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583772816045,
+      "content": "Haha amaze ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583769835281,
+      "content": "This is your confirmation email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583769831005,
+      "content": "I\u00e2\u0080\u0099m not sending the confirmation email lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583769825737,
+      "content": "Oh yeah you\u00e2\u0080\u0099re approved for that and also Thursday 3/12 8-10 am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583769654563,
+      "content": "This Wednesday 9-11 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583769286334,
+      "content": "When? When did I grant it for? I can\u00e2\u0080\u0099t remember.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583769203722,
+      "content": "Would u like to join us and bake cookies and possibly other assorted deserts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583769191522,
+      "content": "This was hillll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1583769187995,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandCaseyRamsey_55vTkrHLhA/photos/89606137_214251149865532_7763398479828746240_n_214251116532202.jpg",
+          "creation_timestamp": 1583769187
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1583280443966,
+      "content": "Work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1583272889358,
+      "content": "Din?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582932416719,
+      "content": "yessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1582932153520,
+      "content": "I told Casey to quickly poop! And he understood",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1582929135772,
+      "content": "OK HOLD ON",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1582929091165,
+      "content": "Come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1582927976021,
+      "content": "I\u00e2\u0080\u0099m gonna join",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582927744298,
+      "content": "about to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Casey Ramsey",
+      "timestamp_ms": 1582927709231,
+      "content": "R u eating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582896000052,
+      "content": "The live video is hillll",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1582895993144,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandCaseyRamsey_55vTkrHLhA/photos/88346896_2575994932682621_1827832519471398912_n_2575994926015955.jpg",
+          "creation_timestamp": 1582895990
+        },
+        {
+          "uri": "messages/inbox/FeliciaChangandCaseyRamsey_55vTkrHLhA/photos/88976550_184148816211280_5248940636941320192_n_184148809544614.jpg",
+          "creation_timestamp": 1582895990
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Casey Ramsey",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandCaseyRamsey_55vTkrHLhA"
+}

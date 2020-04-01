@@ -1,0 +1,1468 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Chang"
+    },
+    {
+      "name": "Pranav Chand"
+    },
+    {
+      "name": "Sarim Abbas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534804442405,
+      "content": "gr9",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804411602,
+      "content": "Register them in urls.py",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804401448,
+      "content": "And then once you\u00e2\u0080\u0099re done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804395820,
+      "content": "But go ahead make any new views you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804383430,
+      "content": "I should probably refactor it into folders",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804374346,
+      "content": "It\u00e2\u0080\u0099s views.py",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534804370008,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534804359157,
+      "content": "do you have any idea which file does that happen in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534804319502,
+      "content": "im still kinda confused about how routing is happening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534804291879,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803908411,
+      "content": "Can\u00e2\u0080\u0099t remember of the top of my head",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803896409,
+      "content": "I think in navbar.html you\u00e2\u0080\u0099ll find the tag used to check whether people have signed in or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803621334,
+      "content": "Interested in seeing what your thinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803612445,
+      "content": "Yeah go for it mate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803599589,
+      "content": "and if someone else is viewing it isnt there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803591673,
+      "content": "if they are signed in, this sidebar could appear next to their profile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803579429,
+      "photos": [
+        {
+          "uri": "messages/inbox/FeliciaChangandPranavChand_vGhKI75rlA/photos/39638040_2176790905891841_3291870348215058432_n_2176790899225175.png",
+          "creation_timestamp": 1534803577
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803575803,
+      "content": "I feel like it is a good idea to reuse this for the project and user pages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803184516,
+      "content": "lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803171461,
+      "content": "It helps avoid some repetition",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803167178,
+      "content": "ah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803163693,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803160206,
+      "content": "and one in dashboard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803159228,
+      "content": "And then sometimes in the sub folders there are layouts that extend the base",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534803145923,
+      "content": "There is the base one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803124050,
+      "content": "there are 2 layouts.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534803119005,
+      "content": "im kinda confused about something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534801829807,
+      "content": "dope !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534801816650,
+      "content": "too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534801815271,
+      "content": "great im doing that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534801347757,
+      "content": "Nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534801343480,
+      "content": "also no one's made the project page yet too right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534800920156,
+      "content": "on my local copy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534800909677,
+      "content": "I\u00e2\u0080\u0099m trying to temporarily use my own gmail acct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534797897657,
+      "content": "My computer malifcjfikned and I only have my phone rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534797885766,
+      "content": "But if you need to send emails I\u00e2\u0080\u0099ll just get that for you in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534797838244,
+      "content": "You can just rename the .env.example file to .env and you should be set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534797822217,
+      "content": "Are you calling an email function?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534797669392,
+      "content": "i think i need those settings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534796979224,
+      "content": "what are the email settings yall are using",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534422242067,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534421946792,
+      "content": "Oh also When you submit the pull request it should create a disposable heroku app then and there, and you'll be able to see if you get any errors in a production setting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534421878160,
+      "content": "gr9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534417767834,
+      "content": "But otherwise you should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534417762780,
+      "content": "If you use any email features you'll get an error",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534417755423,
+      "content": "Nah you don't need to add anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534391246708,
+      "content": "do i need to actually change anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534391210524,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534391190896,
+      "content": "EMAIL_HOST_USER and EMAIL_HOST_PASSWORD can be obtained from the project owner (or you may provide credentials to your own SMTP server. This will also require modifying settings.py).",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534304126695,
+      "content": "Dope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534271189972,
+      "content": "design",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534271188389,
+      "content": "im copying the project page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1534268950932,
+      "content": "Srry just woke up, no user page design @Pranav Chand are u designing it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534247360586,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534247336806,
+      "content": "yea i would like to use react in it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245781149,
+      "content": "If you need react or something else you can import into the new templates you create",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245760453,
+      "content": "Like bootstrap and jquery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245751443,
+      "content": "Some cdns are imported already in layout.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245732183,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245722572,
+      "content": "for now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245707646,
+      "content": "ok ill make the user one look similar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245703995,
+      "content": "In teegers folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245696974,
+      "content": "We have a project one yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245696095,
+      "content": "ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245692987,
+      "content": "Like the sketch file?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245689321,
+      "content": "I'm confused",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245680323,
+      "content": "no as in design",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245678114,
+      "content": "Yeah there should be models for both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245672539,
+      "content": "By form you mean model right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245660306,
+      "content": "wait do we have a project form?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245657611,
+      "content": "Yeah for that something close to LinkedIn of Start-up tree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245644314,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245632569,
+      "content": "user",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245628581,
+      "content": "The join request form is part of it but you'd also need to show the entire layout and project data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245601324,
+      "content": "For user or project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245561646,
+      "content": "its just a form",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245459893,
+      "content": "ill make something and we can revisit worst case?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245426967,
+      "content": "The design for that is there I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245422179,
+      "content": "I'll check but if not you can do the same for the project page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534245410289,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245153405,
+      "content": "in teeger's designs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245143858,
+      "content": "i could not gind one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534245094792,
+      "content": "cpranav1998",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534243584030,
+      "content": "@Felicia Chang could you confirm if we have a user profile page design? i recall seeing it but cannot seem to find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534243560996,
+      "content": "also here is some innfo for you https://github.com/yalethinkspace/thinkspace_django/issues/5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534243066142,
+      "content": "whats ur github pranav?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203778353,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203767323,
+      "content": "Yeah exactly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203764517,
+      "content": "lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203761286,
+      "content": "its similar to wtforms then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203759666,
+      "content": "Just point it to a form in forms.py",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203750690,
+      "content": "You don't even need to write the form html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203738972,
+      "content": "It'll render the html for a form for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203733012,
+      "content": "In fact you'll notice as you explore the templates there is a generic form.html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203707515,
+      "content": "littt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203704182,
+      "content": "It's quite beautiful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203700898,
+      "content": "Django.contrib.auth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203693442,
+      "content": "Yeah that's all inbuilt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203684692,
+      "content": "i like that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203682294,
+      "content": "The password is too similar to the email address.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203641163,
+      "content": "I'll review your branch code and suggest any changes, like if Django already has that as an inbuilt feature",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203605869,
+      "content": "If you wanna add more python libraries just add it to requirements and in settings.py",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203589471,
+      "content": "i will see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203587087,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203583612,
+      "content": "Data validation is through django forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203572647,
+      "content": "If js you can drop in the cdn to a template no problem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203569865,
+      "content": "data validation?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203561413,
+      "content": "So which libraries do you want to add",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203547306,
+      "content": "That should be it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203547107,
+      "content": "like do we have a process for adding new libraries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203538399,
+      "content": "You can sign up and edit a profile right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203532486,
+      "content": "Haven't been implemented",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203529001,
+      "content": "Some of the pages are dummy links",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203514371,
+      "content": "Oh right yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203508612,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203507205,
+      "content": "no like it redirects to thinkspaces/#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203490376,
+      "content": "Wdym?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203489907,
+      "content": "how are we handling adding libraries",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203472852,
+      "content": "thats what happens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203463693,
+      "content": "/#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203461664,
+      "content": "#",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203458179,
+      "content": "You'll see it does reloads",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203453525,
+      "content": "Like try making a profile on the production website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203447414,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203440335,
+      "content": "Yeah nope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203437101,
+      "content": "Most of it is template rendering and form capture",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203434545,
+      "content": "without reloading the webpage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203424918,
+      "content": "Hmm not as such",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203417847,
+      "content": "like seeing messages etc with ajax",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203412566,
+      "content": "You mean like ajax?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203402017,
+      "content": "so right now we arent adding any dynamic functionality?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203359106,
+      "content": "lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sarim Abbas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203358430,
+      "content": "cracked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203353331,
+      "content": "Dope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203350768,
+      "content": "Prolly just dl a trial",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203350317,
+      "content": "i have it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203343799,
+      "content": "You'll need the sketch app",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203339303,
+      "content": "Added you just now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203321497,
+      "content": "Lemme add you to the drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203317507,
+      "content": "Oh right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203312728,
+      "content": "Tomorrow I'll make the issue with some useful info",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203312113,
+      "content": "no i want to see the design",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203305373,
+      "content": "Feel free to go ahead",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203304650,
+      "content": "tests i will learn and start soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203299560,
+      "content": "Oh awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203293888,
+      "content": "i can start on user data right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203285621,
+      "content": "And one for testing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203282699,
+      "content": "One for the user data page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203278241,
+      "content": "Tomorrow morning I'll make two issues",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203277107,
+      "content": "i want to learn testing too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203273023,
+      "content": "i will look into that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203266254,
+      "content": "Lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203264179,
+      "content": "If you can do tests that would be so lot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203261832,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203258310,
+      "content": "Zero",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203254545,
+      "content": "what about tests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203241261,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203236751,
+      "content": "And then slowly move onto exposing functionality through an api",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203227618,
+      "content": "That I thought it would be best to start with a web app with all the batteries included",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203215407,
+      "content": "That's what I thought but it was so much effort to encapsulate the entire functionality of the website in an api",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203180483,
+      "content": "actually that'd be great to have if we make a pwa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203170921,
+      "content": "Yeap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203164043,
+      "content": "flask is great for apis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203163694,
+      "content": "Was an experiment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203157669,
+      "content": "Api also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203156563,
+      "content": "lol #cs50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203155465,
+      "content": "Gonna delete that repo soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203150264,
+      "content": "Ahh you can ignore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203144592,
+      "content": "whats that about?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203141067,
+      "content": "i see some flask also in the repo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203139704,
+      "content": "Or losing data",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203137110,
+      "content": "Without having to worry about things crashing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203127673,
+      "content": "So you can change models in a flash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203117634,
+      "content": "The sql nightmare is somewhat averted by djangos migration tool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203113551,
+      "content": "yea pouch makes it easy to add offline support",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203097502,
+      "content": "Ooh idk about couch I'll look into it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203090048,
+      "content": "Fire base I definitely wanted but there is also an inbuilt user class in django so it takes care of auth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203085324,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203078295,
+      "content": "(hence couch)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203074412,
+      "content": "ive heard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203067398,
+      "content": "Or scale well in general (controversial) LOL",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203065138,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203053915,
+      "content": "I was tempted by mongo but it doesn't scale well with django",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203039517,
+      "content": "So I definitely have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203038106,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203034548,
+      "content": "And we aren't using any js as of yet. Most of the input capture is Django forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203031939,
+      "content": "or firebase?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203027299,
+      "content": "have you considered mongo/couch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203012639,
+      "content": "wow ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203008380,
+      "content": "Postgresql",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534203002348,
+      "content": "Yeah it comes inbuilt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534203002233,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202998244,
+      "content": "It's just the django sql driver",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202995765,
+      "content": "you are using relational?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202988766,
+      "content": "for the database?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202984160,
+      "content": "If you mean stuff like js frameworks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202971045,
+      "content": "The model specification you'll also find in the repository",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202963225,
+      "content": "So currently we are just using django templating language to render the model",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202934408,
+      "content": "and what libraries can i use?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202927012,
+      "content": "i was just about to ask that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202923257,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202916238,
+      "content": "In the designs folder you'll find sketch files of different pages",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202901578,
+      "content": "I'll also add yoh to the Google drive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202900429,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202896541,
+      "content": "You can make a branch and submit a pull request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202890307,
+      "content": "I'll add you to the github",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202872072,
+      "content": "Yeah of course! User data page would be best to get your feet wet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202857986,
+      "content": "how so?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202856687,
+      "content": "StartupTree",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202855732,
+      "content": "could i work on the user data and project data page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202852272,
+      "content": "Or we recently got a competitor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202847777,
+      "content": "So like app store",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202844743,
+      "content": "But we need to pretty up this concept",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202836785,
+      "content": "Yep!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202820532,
+      "content": "so you will have a list of projects, list of users - a project page and some kind of link for a user to apply for a project and for the project to accept",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202738386,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202722911,
+      "content": "Then we will link up the database models",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202715469,
+      "content": "The first step of the implementation is translating teegers sketch into html bootstrap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202692331,
+      "content": "That I can add you as a contributor to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202680906,
+      "content": "Currently we have a django project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202672154,
+      "content": "But this is complicated by stuff like 1) permission levels 2) join requests vs messages in the inbox 3) whether to have a separate project management page etc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202665324,
+      "content": "how are you going about implementing this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202646918,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202629959,
+      "content": "Where he can accept or decline",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202624276,
+      "content": "Then a request will be sent to the project owners inbox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202613516,
+      "content": "The basic idea is someone will click the apply button on a project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202599075,
+      "content": "I've asked one of the designers (Teeger) to ideate and give us sketches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202573200,
+      "content": "The user connecting to projects workflow is the trickiest thing to nail down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sarim Abbas",
+      "timestamp_ms": 1534202546097,
+      "content": "Dope to have you onboard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202209669,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1534202193798,
+      "content": "yes for now were using a tag system to categorize projects and interests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202010754,
+      "content": "or is it more fancy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534202000012,
+      "content": "are you asking them to assign themselves tags and then matching those tags with projects or something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534201951427,
+      "content": "how you are connecting users with projects",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pranav Chand",
+      "timestamp_ms": 1534201935918,
+      "content": "could you walk me through:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1534201502916,
+      "content": "I sent him the github link already",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1534201496584,
+      "content": "Hey Sarim! Pranav is down to help code the Thinkspace site. Do u wanna give him a rundown of where u and idris are at rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Felicia Chang",
+      "timestamp_ms": 1534201496252,
+      "content": "Felicia created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Felicia Chang and Pranav Chand",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FeliciaChangandPranavChand_vGhKI75rlA"
+}
