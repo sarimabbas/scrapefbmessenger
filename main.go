@@ -49,13 +49,14 @@ func check(e error) {
 }
 
 func main() {
-	// names, paths := listAllMessageFiles("./input")
-	// for i, path := range paths {
-	// 	fmt.Println("Working on: ", path)
-	// 	parseMessageFile(path, names[i])
-	// }
+	// parse all input .json files
+	names, paths := listAllMessageFiles("./input")
+	for i, path := range paths {
+		fmt.Println("Working on: ", path)
+		parseMessageFile(path, names[i])
+	}
 
-	// combine output
+	// combine output into single file
 	_, paths := listAllMessageFiles("./output")
 	var combinedPages []Page
 	for _, path := range paths {
@@ -76,6 +77,8 @@ func main() {
 	ioutil.WriteFile(outPath, out, 0644)
 }
 
+// scans a directory for .json files
+// outputs lists of file names and paths
 func listAllMessageFiles(startDir string) ([]string, []string) {
 	var fileNames []string
 	var filePaths []string
@@ -96,6 +99,8 @@ func listAllMessageFiles(startDir string) ([]string, []string) {
 	return fileNames, filePaths
 }
 
+// takes a messages file (path and name) ending in .json
+// writes content to ./output/ directory
 func parseMessageFile(filePath string, fileName string) {
 	// read file
 	dat, err := ioutil.ReadFile(filePath)
