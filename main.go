@@ -57,7 +57,7 @@ func main() {
 	}
 
 	// combine output into single file
-	_, paths := listAllMessageFiles("./output")
+	_, paths = listAllMessageFiles("./output")
 	var combinedPages []Page
 	for _, path := range paths {
 		// read file

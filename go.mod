@@ -1,4 +1,4 @@
-module fb-chat-vis
+module scrapefbmessenger
 
 go 1.14
 
